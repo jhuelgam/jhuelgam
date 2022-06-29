@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jessica Huelgas
 - 💻 I'm working towards a master’s degree in Algorithms and Protocols for Wireless Sensor Networks.
 - 👀 I’m interested in top notch technology.
-- 🌱 I’m currently learning Unity and Kafka.
+- 🌱 I’m currently learning Unity, Blockchain and Kafka.
 - 🧠 Let’s put our minds together...
 - ✈️ Hodophile.
 - 📫 How to reach me ...
@@ -24,7 +24,7 @@ a dissertation on Optical Properties of Metallic Nanostructures
 I worked as scientist [here] https://www.nochedelasestrellas.org.mx/docs/int/china/2014/cartel/cartel6.pdf
 --->
 I hold a B.Sc. in Physics at the Faculty of Sciences, UNAM.
-I modeled an optical response of gold prolate metallic nanoparticles, implementing a Fortran code from NASA.
+I modeled an optical response of gold prolate nanoparticles, implementing a Fortran code from NASA.
 The Localized Surface Plasmon Resonance (LSPR) is an attractive characteristic of metal nanoparticles which is a collective oscillation of conduction band electrons.
 The plasmon frequency is given by:
 
